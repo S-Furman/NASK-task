@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NASK-task/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/NASK-task/static/js/main.bd6794d7.chunk.js",
+    "main.js.map": "/NASK-task/static/js/main.bd6794d7.chunk.js.map",
+    "runtime-main.js": "/NASK-task/static/js/runtime-main.e3c4f6dd.js",
+    "runtime-main.js.map": "/NASK-task/static/js/runtime-main.e3c4f6dd.js.map",
+    "static/js/2.65ae6344.chunk.js": "/NASK-task/static/js/2.65ae6344.chunk.js",
+    "static/js/2.65ae6344.chunk.js.map": "/NASK-task/static/js/2.65ae6344.chunk.js.map",
+    "static/js/3.95d4a908.chunk.js": "/NASK-task/static/js/3.95d4a908.chunk.js",
+    "static/js/3.95d4a908.chunk.js.map": "/NASK-task/static/js/3.95d4a908.chunk.js.map",
+    "index.html": "/NASK-task/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/NASK-task/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.65ae6344.chunk.js.LICENSE.txt": "/NASK-task/static/js/2.65ae6344.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c4f6dd.js",
+    "static/js/2.65ae6344.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bd6794d7.chunk.js"
+  ]
+}
